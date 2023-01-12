@@ -145,6 +145,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
     Expression exp = p.parse(finaluserinput);
     ContextModel cm = ContextModel();
     double eval = exp.evaluate(EvaluationType.REAL, cm);
+    print(eval.toString());
     var answer = eval.toString();
     return answer;
   }
