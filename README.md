@@ -1,6 +1,9 @@
 # calculator_app
 
-A new Flutter project.
+A Flutter app show simple calculator operations.
+
+![calculator](https://user-images.githubusercontent.com/24944117/213915967-0fa78c5a-8f7f-443f-91ee-d40936140c87.jpg)
+
 
 ## Getting Started
 
