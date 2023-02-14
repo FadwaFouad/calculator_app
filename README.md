@@ -1,8 +1,10 @@
 # calculator_app
 
 A Flutter app show simple calculator operations.
+.
 
-![calculator](https://user-images.githubusercontent.com/24944117/213915967-0fa78c5a-8f7f-443f-91ee-d40936140c87.jpg)
+![PicsArt_02-14-10 27 43](https://user-images.githubusercontent.com/24944117/218863238-a09167ac-a763-487c-a31a-3cd9fc456e24.png)
+
 
 
 ## Getting Started
